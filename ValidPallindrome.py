@@ -13,3 +13,6 @@ class Solution:
             else:
                 return False
         return True
+
+s = Solution()
+print(s.isPalindrome("mad,am"))
